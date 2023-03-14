@@ -145,8 +145,8 @@ let walls = [];
 let particle;
 let mx = 0
 let my = 0
-let w = 400
-let h = 400
+let w = 600
+let h = 600
 let c
 let ctx
 
